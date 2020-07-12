@@ -1,17 +1,19 @@
 # CSS Notes
 
 - CSS - Cascading Style Sheet
-- RGB - Red Green Bleu - `background
-- HSL
-- Hex codes
-- Layout
+- RGB - Red Green Bleu - `background-color: rgb(214, 233, 176)`;
+- HSL - Hue Saturation Light
+- Opacity - ???
+- Hex codes - hexidecimal code - #000000 or #000
+- Layout - remenber wireframe - how it arranges on page
 - Rule
 ```
 (example)
 p {
     color: red;
+    width: 150px;
 }
 ```
-- Selector
+- Selector - 
 - Property & value
 - Curly braces - `{}`

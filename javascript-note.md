@@ -30,3 +30,8 @@ if(hourNow > 18){
 document.write('<h3>' + greeting + '</h3>');
 ```
 in javascript, the mathmatical type of trus is  1 and for faul is 0 
+
+## What is JavaScript
+Search Results
+Featured snippet from the web
+To put things simply, JavaScript is an object orient programming language designed to make web development easier and more attractive. In most cases, JavaScript is used to create responsive, interactive elements for web pages, enhancing the user experience.

@@ -9,4 +9,4 @@ My name si Will, i live in Seattle, I'm learning software engineering right now
 - [HTML Note](html-note.md)
 - [CSS Note](css-note.md)
 - [JS Note](javascript-note.md)
-- [How Computers Wokr](how-computers-work.md)
+- [How Computers Work](how-computers-work.md)

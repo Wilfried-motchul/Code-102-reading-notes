@@ -11,3 +11,4 @@ My name si Will, i live in Seattle, I'm learning software engineering right now
 - [JS Note](javascript-note.md)
 - [How Computers Work](how-computers-work.md)
 - [JS Function](function-notes.md)
+- [For and while loops](loops-notes.md)
